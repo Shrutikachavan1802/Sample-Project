@@ -1,6 +1,7 @@
 # Title -SampleProject
-## Project Description
-### Installation
-#### License
-##### Visuals
+# Project Description
+ ## Visuals
+# Installation Guide
+# License
+# 
 
